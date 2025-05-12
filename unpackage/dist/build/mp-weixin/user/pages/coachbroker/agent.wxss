@@ -1,0 +1,1 @@
+.list-item .avatar{width:94rpx;height:94rpx}.list-item .city-btn{height:32rpx;padding:0 6rpx 0 6rpx}.list-item .city-btn .bg{opacity:.1;border-radius:5rpx;top:0;left:0;right:0;bottom:0;z-index:1}

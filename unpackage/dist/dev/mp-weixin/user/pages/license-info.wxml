@@ -1,0 +1,1 @@
+<block wx:if="{{detail.id}}"><view class="license-info"><block wx:for="{{detail.license}}" wx:for-item="item" wx:for-index="index" wx:key="index"><image class="item-img" mode="aspectFill" src="{{item}}" data-event-opts="{{[['tap',[['toPreviewImage',[index]]]]]}}" catchtap="__e"></image></block><view class="space-footer"></view></view></block>

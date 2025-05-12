@@ -1,0 +1,17 @@
+<uni-popup vue-id="923e1780-1" type="center" data-ref="open_miniprogram_popup" class="data-v-d465f070 vue-ref" bind:__l="__l" vue-slots="{{['default']}}"><view class="common-popup-content fill-base data-v-d465f070"><view class="title data-v-d465f070">跳转小程序</view><block wx:if="{{info.img}}"><image class="image data-v-d465f070" mode="aspectFill" src="{{info.img}}"></image></block><block wx:if="{{info.title}}"><view class="name data-v-d465f070">{{info.title}}</view></block><view class="button data-v-d465f070"><view data-event-opts="{{[['tap',[['close',['$event']]]]]}}" class="item-child data-v-d465f070" catchtap="__e">取消</view><weixin-open-launch-weapp vue-id="{{('923e1780-2')+','+('923e1780-1')}}" appid="{{info.appid}}" path="{{info.path}}" class="data-v-d465f070" bind:__l="__l" vue-slots="{{['default']}}"><view type="text/wxtag-template" class="_script data-v-d465f070"><style>
+			          .btn {
+					    width:120px;
+					    height:45px;
+			            font-size: 14px;
+			            text-align: center;
+			            color: #ffffff; 
+			            outline: none;
+			            border: 0;
+			            border-radius: 45px;
+			            padding: 12px 40px;
+						background: #19c865;
+						margin:0 10px;
+						padding:0px;
+			          }
+			        </style>
+			        <button class="btn">立即前往</button></view></weixin-open-launch-weapp></view></view></uni-popup>

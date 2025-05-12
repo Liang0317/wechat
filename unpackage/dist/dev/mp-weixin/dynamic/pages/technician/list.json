@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "动态发布",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "wfalls-flow": "/components/wfalls-flow"
+  }
+}

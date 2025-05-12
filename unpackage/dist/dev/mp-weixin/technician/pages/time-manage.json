@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "时间管理",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker",
+    "tab": "/components/tab"
+  }
+}

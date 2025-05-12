@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我是分销员",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tabbar": "/components/tabbar"
+  }
+}

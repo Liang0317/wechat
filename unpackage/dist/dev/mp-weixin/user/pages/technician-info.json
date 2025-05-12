@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "service-list-item": "/components/service-list-item",
+    "technician-list-popup": "/components/technician-list-popup"
+  }
+}

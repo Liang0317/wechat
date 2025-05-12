@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "technician-list-item": "/components/technician-list-item",
+    "technician-list-popup": "/components/technician-list-popup"
+  }
+}

@@ -1,0 +1,2 @@
+page{background:#fff}.user-bank-account .item-text{font-size:30rpx;margin:35rpx 0 20rpx 0}.user-bank-account .item-text .icon-required{font-size:28rpx}.user-bank-account .item-text .item-tips{font-size:24rpx;color:#ff2404;margin-left:10rpx}.user-bank-account .item-input{width:calc(100% - 60rpx);min-height:80rpx;padding:0 30rpx}.user-bank-account .item-input .flex-between{min-height:40rpx;padding:20rpx 0}.user-bank-account .icon-xuanze,
+.user-bank-account .icon-xuanze-fill{font-size:30rpx}

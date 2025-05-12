@@ -1,0 +1,1 @@
+<view class="load-more"><block wx:if="{{!loading&&noMore}}"><block><view class="loadmore__line"></view><text class="loadmore__text">{{noMoreText}}</text><view class="loadmore__line"></view></block></block><block wx:if="{{loading}}"><block><view class="weui-loading"></view><text class="loadmore__text">{{loadText}}</text></block></block></view>

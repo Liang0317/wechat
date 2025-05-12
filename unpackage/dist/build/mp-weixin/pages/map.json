@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker",
+    "a-map": "/components/amap",
+    "tabbar": "/components/tabbar",
+    "technician-list-item": "/components/technician-list-item",
+    "technician-list-popup": "/components/technician-list-popup"
+  }
+}

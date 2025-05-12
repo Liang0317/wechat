@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "会员规则",
+  "usingComponents": {
+    "parser": "/components/jyf-Parser/index"
+  }
+}

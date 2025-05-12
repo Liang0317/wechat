@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "消费明细",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

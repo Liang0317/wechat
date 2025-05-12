@@ -1,0 +1,1 @@
+.box-item .box-item-title{padding-top:40rpx}.box-item .box-item-cont{height:110rpx}.box-item .box-item-cont input{width:100%;height:100%}.box-item .c-5A677E{color:#5a677e}.box-item .nav-item{width:calc((100% - 40rpx) / 3);height:68rpx;line-height:68rpx;border-radius:68rpx}

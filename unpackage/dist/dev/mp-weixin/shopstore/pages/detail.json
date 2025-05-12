@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商家详情",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "service-list-item": "/components/service-list-item"
+  }
+}

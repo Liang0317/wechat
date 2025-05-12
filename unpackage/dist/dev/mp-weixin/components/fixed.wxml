@@ -1,0 +1,1 @@
+<view><view class="{{['ui-fixed',(position=='top')?'fixed-top':'',(position=='bottom')?'fixed-bottom':'']}}" style="{{'top:'+(position=='top'?top+'px':'')+';'+('z-index:'+(zIndex)+';')}}"><slot></slot></view><block wx:if="{{position=='top'}}"><view style="{{'height:'+(height+'px')+';'}}"></view></block></view>

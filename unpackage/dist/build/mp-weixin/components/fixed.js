@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/fixed"],{"026f":function(t,e,n){"use strict";n.r(e);var i=n("6472"),u=n("de7e");for(var c in u)["default"].indexOf(c)<0&&function(t){n.d(e,t,(function(){return u[t]}))}(c);n("6eb6");var r=n("828b"),o=Object(r["a"])(u["default"],i["b"],i["c"],!1,null,null,null,!1,i["a"],void 0);e["default"]=o.exports},3693:function(t,e,n){"use strict";(function(t){Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var n={name:"fixed",props:{position:{type:[String],default:function(){return"top"}},top:{type:[Number],default:function(){return 0}},zIndex:{type:[Number],default:function(){return 999}},initHeight:{type:String|Number|Object,default:function(){return""}}},data:function(){return{height:100*t.getSystemInfoSync().windowWidth/750}},mounted:function(){var t=this;setTimeout((function(){t.setHeight()}),100)},watch:{initHeight:function(t,e){var n=this;this.$nextTick((function(){n.setHeight()}))}},methods:{setHeight:function(){var e=this,n=t.createSelectorQuery().in(e);n.select(".ui-fixed").boundingClientRect((function(t){e.height=t.height,e.$emit("height",t.height)})).exec()}}};e.default=n}).call(this,n("df3c")["default"])},6472:function(t,e,n){"use strict";n.d(e,"b",(function(){return i})),n.d(e,"c",(function(){return u})),n.d(e,"a",(function(){}));var i=function(){var t=this.$createElement;this._self._c},u=[]},"6eb6":function(t,e,n){"use strict";var i=n("c435"),u=n.n(i);u.a},c435:function(t,e,n){},de7e:function(t,e,n){"use strict";n.r(e);var i=n("3693"),u=n.n(i);for(var c in i)["default"].indexOf(c)<0&&function(t){n.d(e,t,(function(){return i[t]}))}(c);e["default"]=u.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/fixed-create-component',
+    {
+        'components/fixed-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('df3c')['createComponent'](__webpack_require__("026f"))
+        })
+    },
+    [['components/fixed-create-component']]
+]);

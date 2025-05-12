@@ -1,0 +1,1 @@
+page{background:#fff}.merchant-info .f-title{max-width:530rpx}.merchant-info .mearchant-label{width:100rpx;height:34rpx;border-radius:4rpx}.merchant-info .mearchant-label .bg{opacity:.1;top:0;left:0;right:0;bottom:0;z-index:1;border-radius:4rpx}.merchant-info .license-info{height:345rpx;background:#f4f4f4}.merchant-info .img-item{width:315rpx;height:232rpx}

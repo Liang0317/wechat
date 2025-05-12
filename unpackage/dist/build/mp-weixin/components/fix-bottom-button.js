@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/fix-bottom-button"],{"0c00":function(t,n,e){"use strict";e.r(n);var u=e("3758"),o=e("3f9f");for(var r in o)["default"].indexOf(r)<0&&function(t){e.d(n,t,(function(){return o[t]}))}(r);e("ec21");var f=e("828b"),c=Object(f["a"])(o["default"],u["b"],u["c"],!1,null,"3bc9da88",null,!1,u["a"],void 0);n["default"]=c.exports},3758:function(t,n,e){"use strict";e.d(n,"b",(function(){return u})),e.d(n,"c",(function(){return o})),e.d(n,"a",(function(){}));var u=function(){var t=this,n=t.$createElement,e=(t._self._c,1===t.classType?t.text.length:null),u=1===t.classType?t.text.length:null,o=1===t.classType?t.text.length:null,r=2===t.classType?t.text.length:null,f=2===t.classType&&2!=r?t.text.length:null,c=2===t.classType?t.text.length:null;t.$mp.data=Object.assign({},{$root:{g0:e,g1:u,g2:o,g3:r,g4:f,g5:c}})},o=[]},"3f9f":function(t,n,e){"use strict";e.r(n);var u=e("588a"),o=e.n(u);for(var r in u)["default"].indexOf(r)<0&&function(t){e.d(n,t,(function(){return u[t]}))}(r);n["default"]=o.a},"533f":function(t,n,e){},"588a":function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var u=e("8f59"),o={props:{text:{type:Array,default:function(){return[{text:"保存",type:"confirm"}]}},bgColor:{type:String,default:function(){return"#F8F8F8"}},classType:{type:Number,default:function(){return 1}}},computed:(0,u.mapState)({primaryColor:function(t){return t.config.configInfo.primaryColor},subColor:function(t){return t.config.configInfo.subColor},userInfo:function(t){return t.user.userInfo}}),methods:{confirm:function(t){this.$emit(t.type)}}};n.default=o},ec21:function(t,n,e){"use strict";var u=e("533f"),o=e.n(u);o.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/fix-bottom-button-create-component',
+    {
+        'components/fix-bottom-button-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('df3c')['createComponent'](__webpack_require__("0c00"))
+        })
+    },
+    [['components/fix-bottom-button-create-component']]
+]);

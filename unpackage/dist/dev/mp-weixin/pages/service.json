@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "service-list-item": "/components/service-list-item",
+    "open-mini-program": "/components/open-mini-program",
+    "tabbar": "/components/tabbar"
+  }
+}

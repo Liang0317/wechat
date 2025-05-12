@@ -1,0 +1,1 @@
+<block wx:if="{{isLoad}}"><view class="flex-center flex-column"><image class="lock-img" mode="widthFix" src="https://lbqny.migugu.com/admin/anmo/mine/sys-lock.png"></image><view class="f-mini-title c-title">很抱歉,您无法进入该系统</view></view></block>

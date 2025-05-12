@@ -1,0 +1,16 @@
+
+.header image {
+	width: 260rpx;
+	height: 260rpx;
+}
+.as-btn {
+	margin-top: 98rpx;
+	height: 84rpx;
+	line-height: 84rpx;
+	border-radius: 84rpx;
+}
+.as-box-cont {
+	padding-top: 40rpx;
+	font-size: 46rpx;
+}
+

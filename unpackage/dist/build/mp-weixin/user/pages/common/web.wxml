@@ -1,0 +1,1 @@
+<view><block wx:if="{{isLoad}}"><web-view src="{{url}}"></web-view></block></view>

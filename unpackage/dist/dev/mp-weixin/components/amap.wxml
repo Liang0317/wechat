@@ -1,0 +1,1 @@
+<view class="data-v-0e92d596"><view class="amap data-v-0e92d596" prop="{{info}}" change:prop="{{amap.updateEcharts}}" id="amap"></view></view>

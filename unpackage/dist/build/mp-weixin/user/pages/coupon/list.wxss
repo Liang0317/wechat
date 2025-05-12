@@ -1,0 +1,1 @@
+.user-coupon-list .list-item{overflow:hidden}.user-coupon-list .list-item .item-title{top:0;left:0;height:50rpx;background:#ffe2e2;border-radius:15rpx 0 15rpx 0}.user-coupon-list .list-item .use-btn{width:140rpx;height:56rpx;-webkit-transform:rotate(1turn);transform:rotate(1turn)}

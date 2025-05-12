@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "服务费提现",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tabbar": "/components/tabbar"
+  }
+}

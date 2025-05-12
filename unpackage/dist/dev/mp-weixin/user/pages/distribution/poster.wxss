@@ -1,0 +1,15 @@
+
+.info_text {
+	width: 710rpx;
+	padding: 20rpx 40rpx;
+	box-sizing: border-box;
+}
+.info_text_img {
+	width: 20rpx;
+	height: 20rpx;
+}
+.code-img {
+	width: 710rpx;
+	height: 1152rpx;
+}
+

@@ -1,0 +1,1 @@
+.min-countdown{display:inline-flex;justify-content:center;align-items:center}.min-countdown .count-tag{width:56rpx;height:56rpx;margin:0 10rpx;border-radius:8rpx}.coupon-share .count-tag{background:linear-gradient(0deg,#f7d9ad,#fbeacb)}

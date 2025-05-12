@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "升级分销员",
+  "usingComponents": {
+    "tabbar": "/components/tabbar"
+  }
+}

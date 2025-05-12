@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "推荐项目",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "service-list-item": "/components/service-list-item"
+  }
+}

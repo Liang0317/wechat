@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "parser": "/components/jyf-Parser/index",
+    "shop-banner": "/components/shop-banner"
+  }
+}

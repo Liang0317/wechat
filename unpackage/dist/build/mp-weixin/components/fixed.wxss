@@ -1,0 +1,1 @@
+.ui-fixed{position:fixed;left:0;width:100%;z-index:999}.fixed-top{top:0}.fixed-bottom{bottom:0}

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tabbar": "/components/tabbar",
+    "technician-list-item": "/components/technician-list-item",
+    "technician-list-popup": "/components/technician-list-popup",
+    "open-city-item": "/components/open-city-item"
+  }
+}

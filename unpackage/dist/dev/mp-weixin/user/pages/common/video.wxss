@@ -1,0 +1,17 @@
+
+.video-box {
+	position: relative;
+	width: 100%;
+	height: 0;
+	/* padding-bottom: 56.25%; */
+	/*用 9/16 得出，其他比例类似*/
+}
+.my-video {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	align-items: center;
+}
+
